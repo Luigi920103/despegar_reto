@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="travelocity_final" />
+        <module name="GitActivity" />
+        <module name="GitActivity-Luis_Escamilla_Despegar - Pendiente mejora selectores" />
+        <module name="GitActivity-Luis_Escamilla_Despegar - base" />
+        <module name="GitActivity-Luis_Escamilla_Despegar" />
+        <module name="GitActivity-Luis_Escamilla_Despegar - copia" />
+        <module name="GitActivity-Luis_Escamilla_Despegar - base - copia" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
